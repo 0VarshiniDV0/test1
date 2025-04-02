@@ -4,3 +4,4 @@ courses
      AIML
      ECE
      MCE
+new courses     
