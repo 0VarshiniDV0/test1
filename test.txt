@@ -5,6 +5,4 @@ courses
      ECE
      MCE
 new courses
-
-
 amity university
