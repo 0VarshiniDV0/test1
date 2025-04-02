@@ -4,4 +4,7 @@ courses
      AIML
      ECE
      MCE
-new courses     
+new courses
+
+
+amity university
