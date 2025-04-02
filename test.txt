@@ -1,0 +1,6 @@
+amity university 
+courses
+     BTECH IN CSE
+     AIML
+     ECE
+     EEE
