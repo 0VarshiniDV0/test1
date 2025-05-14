@@ -6,3 +6,4 @@ courses
      MCE
 new courses
 amity university
+bengaluru
